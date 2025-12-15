@@ -1,0 +1,2 @@
+# -Logistic-Regression-Classification-Supervised-Machine-Learning-using-Python
+This project focuses on the implementation and understanding of the Logistic Regression algorithm, a fundamental Supervised Machine Learning technique widely used for classification problems. The objective of this repository is to demonstrate how labeled data can be used to train a predictive model that accurately classifies outcomes
